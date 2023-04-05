@@ -177,6 +177,9 @@ color: var(--light-green);
 }
 h2 {
     padding: 1rem;
+color: var(--light-green2);
+background-color: var(--primary-color2);
+
 }
 .pokeImg {
   align-self: center;
