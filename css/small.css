@@ -103,6 +103,7 @@ main {
     display: flex;
     /* justify-content: flex-end; */
     /* text-align: right; */
+    text-align: center;
     padding: 1rem;
     /* text-decoration: none; */
     color: var(--light-green);
@@ -168,9 +169,14 @@ div.regionsec {
 }
 .pokemon {
   background-color: var(--primary-color);
-  text-align: center;
-  width: 162px;
+  /* text-align: center; */
+  /* width: 162px; */
+color: var(--light-green);
+
   padding: 1rem;
+}
+h2 {
+    padding: 1rem;
 }
 .pokeImg {
   align-self: center;
